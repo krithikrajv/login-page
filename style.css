@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.di{
+}
+.ki{
+    background-color: aqua;
+    width:50%;
+    margin-left: 25%;
+    
+}
+.hi{
+    margin-left: 25%;
+    margin-top: 20%;
+    background-color: aliceblue;
+    width: 50%;
+}
+.li{
+    margin-left: 35px;
+    width: 200px;
+    height: 45px;
+    background-color: red;
+}
+.ri{
+    margin-left: 75px;
+}
